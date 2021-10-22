@@ -1,0 +1,505 @@
+"store_id","store_name","product_id","product_name","sales_qty","rank"
+1,Maven Toys Guadalajara 1,20,Mini Basketball Hoop,30,1
+1,Maven Toys Guadalajara 1,26,PlayDoh Playset,31,2
+1,Maven Toys Guadalajara 1,29,Plush Pony,42,3
+1,Maven Toys Guadalajara 1,4,Chutes & Ladders,54,4
+1,Maven Toys Guadalajara 1,22,Monopoly,76,5
+1,Maven Toys Guadalajara 1,35,Uno Card Game,89,6
+1,Maven Toys Guadalajara 1,5,Classic Dominoes,102,7
+1,Maven Toys Guadalajara 1,28,Playfoam,117,8
+1,Maven Toys Guadalajara 1,12,Foam Disk Launcher,117,8
+1,Maven Toys Guadalajara 1,32,Supersoaker Water Gun,129,10
+2,Maven Toys Monterrey 1,33,Teddy Bear,5,1
+2,Maven Toys Monterrey 1,32,Supersoaker Water Gun,26,2
+2,Maven Toys Monterrey 1,26,PlayDoh Playset,35,3
+2,Maven Toys Monterrey 1,28,Playfoam,48,4
+2,Maven Toys Monterrey 1,16,Jenga,51,5
+2,Maven Toys Monterrey 1,29,Plush Pony,68,6
+2,Maven Toys Monterrey 1,23,Mr. Potatohead,80,7
+2,Maven Toys Monterrey 1,12,Foam Disk Launcher,102,8
+2,Maven Toys Monterrey 1,34,Toy Robot,111,9
+2,Maven Toys Monterrey 1,27,PlayDoh Toolkit,145,10
+2,Maven Toys Monterrey 1,10,Dinosaur Figures,145,10
+3,Maven Toys Guadalajara 2,29,Plush Pony,26,1
+3,Maven Toys Guadalajara 2,32,Supersoaker Water Gun,40,2
+3,Maven Toys Guadalajara 2,28,Playfoam,61,3
+3,Maven Toys Guadalajara 2,33,Teddy Bear,62,4
+3,Maven Toys Guadalajara 2,26,PlayDoh Playset,65,5
+3,Maven Toys Guadalajara 2,34,Toy Robot,114,6
+3,Maven Toys Guadalajara 2,17,Kids Makeup Kit,115,7
+3,Maven Toys Guadalajara 2,12,Foam Disk Launcher,120,8
+3,Maven Toys Guadalajara 2,23,Mr. Potatohead,140,9
+3,Maven Toys Guadalajara 2,16,Jenga,194,10
+4,Maven Toys Saltillo 1,33,Teddy Bear,33,1
+4,Maven Toys Saltillo 1,26,PlayDoh Playset,35,2
+4,Maven Toys Saltillo 1,28,Playfoam,55,3
+4,Maven Toys Saltillo 1,29,Plush Pony,75,4
+4,Maven Toys Saltillo 1,32,Supersoaker Water Gun,76,5
+4,Maven Toys Saltillo 1,35,Uno Card Game,79,6
+4,Maven Toys Saltillo 1,20,Mini Basketball Hoop,99,7
+4,Maven Toys Saltillo 1,34,Toy Robot,107,8
+4,Maven Toys Saltillo 1,27,PlayDoh Toolkit,112,9
+4,Maven Toys Saltillo 1,17,Kids Makeup Kit,134,10
+5,Maven Toys La Paz 1,29,Plush Pony,34,1
+5,Maven Toys La Paz 1,28,Playfoam,34,1
+5,Maven Toys La Paz 1,34,Toy Robot,41,3
+5,Maven Toys La Paz 1,16,Jenga,92,4
+5,Maven Toys La Paz 1,26,PlayDoh Playset,93,5
+5,Maven Toys La Paz 1,32,Supersoaker Water Gun,93,5
+5,Maven Toys La Paz 1,33,Teddy Bear,113,7
+5,Maven Toys La Paz 1,12,Foam Disk Launcher,114,8
+5,Maven Toys La Paz 1,27,PlayDoh Toolkit,139,9
+5,Maven Toys La Paz 1,11,Etch A Sketch,150,10
+6,Maven Toys Mexicali 1,28,Playfoam,18,1
+6,Maven Toys Mexicali 1,32,Supersoaker Water Gun,29,2
+6,Maven Toys Mexicali 1,23,Mr. Potatohead,36,3
+6,Maven Toys Mexicali 1,20,Mini Basketball Hoop,39,4
+6,Maven Toys Mexicali 1,26,PlayDoh Playset,48,5
+6,Maven Toys Mexicali 1,22,Monopoly,78,6
+6,Maven Toys Mexicali 1,12,Foam Disk Launcher,79,7
+6,Maven Toys Mexicali 1,33,Teddy Bear,80,8
+6,Maven Toys Mexicali 1,5,Classic Dominoes,83,9
+6,Maven Toys Mexicali 1,34,Toy Robot,83,9
+7,Maven Toys Monterrey 2,33,Teddy Bear,10,1
+7,Maven Toys Monterrey 2,32,Supersoaker Water Gun,39,2
+7,Maven Toys Monterrey 2,29,Plush Pony,49,3
+7,Maven Toys Monterrey 2,26,PlayDoh Playset,67,4
+7,Maven Toys Monterrey 2,35,Uno Card Game,74,5
+7,Maven Toys Monterrey 2,20,Mini Basketball Hoop,74,5
+7,Maven Toys Monterrey 2,34,Toy Robot,83,7
+7,Maven Toys Monterrey 2,28,Playfoam,116,8
+7,Maven Toys Monterrey 2,16,Jenga,135,9
+7,Maven Toys Monterrey 2,27,PlayDoh Toolkit,160,10
+8,Maven Toys Pachuca 1,10,Dinosaur Figures,12,1
+8,Maven Toys Pachuca 1,28,Playfoam,16,2
+8,Maven Toys Pachuca 1,29,Plush Pony,17,3
+8,Maven Toys Pachuca 1,34,Toy Robot,32,4
+8,Maven Toys Pachuca 1,20,Mini Basketball Hoop,45,5
+8,Maven Toys Pachuca 1,22,Monopoly,54,6
+8,Maven Toys Pachuca 1,16,Jenga,62,7
+8,Maven Toys Pachuca 1,4,Chutes & Ladders,63,8
+8,Maven Toys Pachuca 1,32,Supersoaker Water Gun,67,9
+8,Maven Toys Pachuca 1,35,Uno Card Game,75,10
+9,Maven Toys Ciudad de Mexico 1,28,Playfoam,36,1
+9,Maven Toys Ciudad de Mexico 1,32,Supersoaker Water Gun,55,2
+9,Maven Toys Ciudad de Mexico 1,20,Mini Basketball Hoop,64,3
+9,Maven Toys Ciudad de Mexico 1,26,PlayDoh Playset,72,4
+9,Maven Toys Ciudad de Mexico 1,35,Uno Card Game,92,5
+9,Maven Toys Ciudad de Mexico 1,4,Chutes & Ladders,96,6
+9,Maven Toys Ciudad de Mexico 1,29,Plush Pony,106,7
+9,Maven Toys Ciudad de Mexico 1,22,Monopoly,114,8
+9,Maven Toys Ciudad de Mexico 1,12,Foam Disk Launcher,128,9
+9,Maven Toys Ciudad de Mexico 1,33,Teddy Bear,153,10
+10,Maven Toys Campeche 1,2,Animal Figures,5,1
+10,Maven Toys Campeche 1,28,Playfoam,49,2
+10,Maven Toys Campeche 1,32,Supersoaker Water Gun,57,3
+10,Maven Toys Campeche 1,29,Plush Pony,58,4
+10,Maven Toys Campeche 1,20,Mini Basketball Hoop,68,5
+10,Maven Toys Campeche 1,35,Uno Card Game,70,6
+10,Maven Toys Campeche 1,4,Chutes & Ladders,84,7
+10,Maven Toys Campeche 1,33,Teddy Bear,86,8
+10,Maven Toys Campeche 1,26,PlayDoh Playset,96,9
+10,Maven Toys Campeche 1,5,Classic Dominoes,100,10
+11,Maven Toys Cuernavaca 1,32,Supersoaker Water Gun,55,1
+11,Maven Toys Cuernavaca 1,33,Teddy Bear,62,2
+11,Maven Toys Cuernavaca 1,29,Plush Pony,65,3
+11,Maven Toys Cuernavaca 1,28,Playfoam,85,4
+11,Maven Toys Cuernavaca 1,26,PlayDoh Playset,104,5
+11,Maven Toys Cuernavaca 1,10,Dinosaur Figures,127,6
+11,Maven Toys Cuernavaca 1,12,Foam Disk Launcher,139,7
+11,Maven Toys Cuernavaca 1,17,Kids Makeup Kit,145,8
+11,Maven Toys Cuernavaca 1,13,Gamer Headphones,155,9
+11,Maven Toys Cuernavaca 1,16,Jenga,157,10
+12,Maven Toys Chetumal 1,26,PlayDoh Playset,17,1
+12,Maven Toys Chetumal 1,32,Supersoaker Water Gun,23,2
+12,Maven Toys Chetumal 1,28,Playfoam,24,3
+12,Maven Toys Chetumal 1,23,Mr. Potatohead,29,4
+12,Maven Toys Chetumal 1,33,Teddy Bear,31,5
+12,Maven Toys Chetumal 1,20,Mini Basketball Hoop,33,6
+12,Maven Toys Chetumal 1,17,Kids Makeup Kit,51,7
+12,Maven Toys Chetumal 1,34,Toy Robot,57,8
+12,Maven Toys Chetumal 1,35,Uno Card Game,60,9
+12,Maven Toys Chetumal 1,22,Monopoly,66,10
+13,Maven Toys Mexicali 2,26,PlayDoh Playset,12,1
+13,Maven Toys Mexicali 2,32,Supersoaker Water Gun,15,2
+13,Maven Toys Mexicali 2,29,Plush Pony,15,2
+13,Maven Toys Mexicali 2,28,Playfoam,17,4
+13,Maven Toys Mexicali 2,23,Mr. Potatohead,63,5
+13,Maven Toys Mexicali 2,33,Teddy Bear,152,6
+13,Maven Toys Mexicali 2,7,Dart Gun,155,7
+13,Maven Toys Mexicali 2,16,Jenga,160,8
+13,Maven Toys Mexicali 2,17,Kids Makeup Kit,174,9
+13,Maven Toys Mexicali 2,12,Foam Disk Launcher,210,10
+14,Maven Toys Guanajuato 1,32,Supersoaker Water Gun,14,1
+14,Maven Toys Guanajuato 1,33,Teddy Bear,17,2
+14,Maven Toys Guanajuato 1,16,Jenga,18,3
+14,Maven Toys Guanajuato 1,34,Toy Robot,40,4
+14,Maven Toys Guanajuato 1,29,Plush Pony,43,5
+14,Maven Toys Guanajuato 1,17,Kids Makeup Kit,55,6
+14,Maven Toys Guanajuato 1,28,Playfoam,63,7
+14,Maven Toys Guanajuato 1,23,Mr. Potatohead,64,8
+14,Maven Toys Guanajuato 1,12,Foam Disk Launcher,109,9
+14,Maven Toys Guanajuato 1,15,Hot Wheels 5-Pack,156,10
+15,Maven Toys Tuxtla Gutierrez 1,28,Playfoam,33,1
+15,Maven Toys Tuxtla Gutierrez 1,11,Etch A Sketch,55,2
+15,Maven Toys Tuxtla Gutierrez 1,32,Supersoaker Water Gun,61,3
+15,Maven Toys Tuxtla Gutierrez 1,33,Teddy Bear,63,4
+15,Maven Toys Tuxtla Gutierrez 1,26,PlayDoh Playset,63,4
+15,Maven Toys Tuxtla Gutierrez 1,16,Jenga,70,6
+15,Maven Toys Tuxtla Gutierrez 1,29,Plush Pony,70,6
+15,Maven Toys Tuxtla Gutierrez 1,34,Toy Robot,110,8
+15,Maven Toys Tuxtla Gutierrez 1,23,Mr. Potatohead,119,9
+15,Maven Toys Tuxtla Gutierrez 1,27,PlayDoh Toolkit,135,10
+16,Maven Toys San Luis Potosi 1,10,Dinosaur Figures,21,1
+16,Maven Toys San Luis Potosi 1,5,Classic Dominoes,31,2
+16,Maven Toys San Luis Potosi 1,22,Monopoly,33,3
+16,Maven Toys San Luis Potosi 1,26,PlayDoh Playset,39,4
+16,Maven Toys San Luis Potosi 1,4,Chutes & Ladders,40,5
+16,Maven Toys San Luis Potosi 1,33,Teddy Bear,42,6
+16,Maven Toys San Luis Potosi 1,29,Plush Pony,51,7
+16,Maven Toys San Luis Potosi 1,35,Uno Card Game,51,7
+16,Maven Toys San Luis Potosi 1,32,Supersoaker Water Gun,59,9
+16,Maven Toys San Luis Potosi 1,20,Mini Basketball Hoop,74,10
+17,Maven Toys Toluca 1,32,Supersoaker Water Gun,70,1
+17,Maven Toys Toluca 1,26,PlayDoh Playset,107,2
+17,Maven Toys Toluca 1,29,Plush Pony,126,3
+17,Maven Toys Toluca 1,34,Toy Robot,147,4
+17,Maven Toys Toluca 1,10,Dinosaur Figures,162,5
+17,Maven Toys Toluca 1,28,Playfoam,163,6
+17,Maven Toys Toluca 1,23,Mr. Potatohead,177,7
+17,Maven Toys Toluca 1,33,Teddy Bear,194,8
+17,Maven Toys Toluca 1,15,Hot Wheels 5-Pack,248,9
+17,Maven Toys Toluca 1,27,PlayDoh Toolkit,280,10
+18,Maven Toys Merida 1,33,Teddy Bear,12,1
+18,Maven Toys Merida 1,12,Foam Disk Launcher,33,2
+18,Maven Toys Merida 1,20,Mini Basketball Hoop,36,3
+18,Maven Toys Merida 1,32,Supersoaker Water Gun,54,4
+18,Maven Toys Merida 1,10,Dinosaur Figures,63,5
+18,Maven Toys Merida 1,28,Playfoam,67,6
+18,Maven Toys Merida 1,29,Plush Pony,74,7
+18,Maven Toys Merida 1,23,Mr. Potatohead,82,8
+18,Maven Toys Merida 1,26,PlayDoh Playset,94,9
+18,Maven Toys Merida 1,35,Uno Card Game,100,10
+19,Maven Toys Puebla 1,33,Teddy Bear,24,1
+19,Maven Toys Puebla 1,28,Playfoam,26,2
+19,Maven Toys Puebla 1,4,Chutes & Ladders,57,3
+19,Maven Toys Puebla 1,20,Mini Basketball Hoop,60,4
+19,Maven Toys Puebla 1,32,Supersoaker Water Gun,64,5
+19,Maven Toys Puebla 1,35,Uno Card Game,70,6
+19,Maven Toys Puebla 1,5,Classic Dominoes,71,7
+19,Maven Toys Puebla 1,22,Monopoly,76,8
+19,Maven Toys Puebla 1,29,Plush Pony,85,9
+19,Maven Toys Puebla 1,21,Mini Ping Pong Set,140,10
+20,Maven Toys Zacatecas 1,29,Plush Pony,27,1
+20,Maven Toys Zacatecas 1,34,Toy Robot,61,2
+20,Maven Toys Zacatecas 1,28,Playfoam,68,3
+20,Maven Toys Zacatecas 1,12,Foam Disk Launcher,76,4
+20,Maven Toys Zacatecas 1,8,Deck Of Cards,111,5
+20,Maven Toys Zacatecas 1,32,Supersoaker Water Gun,118,6
+20,Maven Toys Zacatecas 1,23,Mr. Potatohead,140,7
+20,Maven Toys Zacatecas 1,13,Gamer Headphones,145,8
+20,Maven Toys Zacatecas 1,16,Jenga,158,9
+20,Maven Toys Zacatecas 1,33,Teddy Bear,162,10
+21,Maven Toys Santiago 1,32,Supersoaker Water Gun,30,1
+21,Maven Toys Santiago 1,28,Playfoam,50,2
+21,Maven Toys Santiago 1,26,PlayDoh Playset,69,3
+21,Maven Toys Santiago 1,33,Teddy Bear,84,4
+21,Maven Toys Santiago 1,12,Foam Disk Launcher,109,5
+21,Maven Toys Santiago 1,29,Plush Pony,111,6
+21,Maven Toys Santiago 1,16,Jenga,119,7
+21,Maven Toys Santiago 1,17,Kids Makeup Kit,143,8
+21,Maven Toys Santiago 1,15,Hot Wheels 5-Pack,171,9
+21,Maven Toys Santiago 1,23,Mr. Potatohead,181,10
+22,Maven Toys Guanajuato 2,20,Mini Basketball Hoop,29,1
+22,Maven Toys Guanajuato 2,5,Classic Dominoes,37,2
+22,Maven Toys Guanajuato 2,33,Teddy Bear,42,3
+22,Maven Toys Guanajuato 2,26,PlayDoh Playset,43,4
+22,Maven Toys Guanajuato 2,22,Monopoly,50,5
+22,Maven Toys Guanajuato 2,35,Uno Card Game,78,6
+22,Maven Toys Guanajuato 2,23,Mr. Potatohead,91,7
+22,Maven Toys Guanajuato 2,12,Foam Disk Launcher,94,8
+22,Maven Toys Guanajuato 2,17,Kids Makeup Kit,101,9
+22,Maven Toys Guanajuato 2,34,Toy Robot,117,10
+23,Maven Toys Chihuahua 1,32,Supersoaker Water Gun,26,1
+23,Maven Toys Chihuahua 1,4,Chutes & Ladders,29,2
+23,Maven Toys Chihuahua 1,29,Plush Pony,32,3
+23,Maven Toys Chihuahua 1,35,Uno Card Game,32,3
+23,Maven Toys Chihuahua 1,5,Classic Dominoes,50,5
+23,Maven Toys Chihuahua 1,26,PlayDoh Playset,84,6
+23,Maven Toys Chihuahua 1,20,Mini Basketball Hoop,85,7
+23,Maven Toys Chihuahua 1,28,Playfoam,91,8
+23,Maven Toys Chihuahua 1,22,Monopoly,91,8
+23,Maven Toys Chihuahua 1,34,Toy Robot,100,10
+24,Maven Toys Aguascalientes 1,20,Mini Basketball Hoop,3,1
+24,Maven Toys Aguascalientes 1,32,Supersoaker Water Gun,5,2
+24,Maven Toys Aguascalientes 1,35,Uno Card Game,32,3
+24,Maven Toys Aguascalientes 1,22,Monopoly,39,4
+24,Maven Toys Aguascalientes 1,26,PlayDoh Playset,53,5
+24,Maven Toys Aguascalientes 1,4,Chutes & Ladders,56,6
+24,Maven Toys Aguascalientes 1,12,Foam Disk Launcher,58,7
+24,Maven Toys Aguascalientes 1,5,Classic Dominoes,67,8
+24,Maven Toys Aguascalientes 1,28,Playfoam,72,9
+24,Maven Toys Aguascalientes 1,29,Plush Pony,87,10
+25,Maven Toys Ciudad Victoria 1,32,Supersoaker Water Gun,16,1
+25,Maven Toys Ciudad Victoria 1,33,Teddy Bear,44,2
+25,Maven Toys Ciudad Victoria 1,21,Mini Ping Pong Set,56,3
+25,Maven Toys Ciudad Victoria 1,29,Plush Pony,63,4
+25,Maven Toys Ciudad Victoria 1,12,Foam Disk Launcher,76,5
+25,Maven Toys Ciudad Victoria 1,28,Playfoam,84,6
+25,Maven Toys Ciudad Victoria 1,26,PlayDoh Playset,93,7
+25,Maven Toys Ciudad Victoria 1,17,Kids Makeup Kit,96,8
+25,Maven Toys Ciudad Victoria 1,34,Toy Robot,108,9
+25,Maven Toys Ciudad Victoria 1,16,Jenga,130,10
+26,Maven Toys Campeche 2,10,Dinosaur Figures,12,1
+26,Maven Toys Campeche 2,29,Plush Pony,19,2
+26,Maven Toys Campeche 2,22,Monopoly,50,3
+26,Maven Toys Campeche 2,20,Mini Basketball Hoop,58,4
+26,Maven Toys Campeche 2,33,Teddy Bear,65,5
+26,Maven Toys Campeche 2,12,Foam Disk Launcher,67,6
+26,Maven Toys Campeche 2,4,Chutes & Ladders,74,7
+26,Maven Toys Campeche 2,34,Toy Robot,81,8
+26,Maven Toys Campeche 2,5,Classic Dominoes,90,9
+26,Maven Toys Campeche 2,35,Uno Card Game,103,10
+27,Maven Toys Oaxaca 1,29,Plush Pony,11,1
+27,Maven Toys Oaxaca 1,32,Supersoaker Water Gun,30,2
+27,Maven Toys Oaxaca 1,13,Gamer Headphones,85,3
+27,Maven Toys Oaxaca 1,17,Kids Makeup Kit,93,4
+27,Maven Toys Oaxaca 1,33,Teddy Bear,104,5
+27,Maven Toys Oaxaca 1,10,Dinosaur Figures,108,6
+27,Maven Toys Oaxaca 1,16,Jenga,113,7
+27,Maven Toys Oaxaca 1,23,Mr. Potatohead,125,8
+27,Maven Toys Oaxaca 1,11,Etch A Sketch,138,9
+27,Maven Toys Oaxaca 1,27,PlayDoh Toolkit,139,10
+28,Maven Toys Puebla 2,32,Supersoaker Water Gun,58,1
+28,Maven Toys Puebla 2,29,Plush Pony,75,2
+28,Maven Toys Puebla 2,33,Teddy Bear,93,3
+28,Maven Toys Puebla 2,26,PlayDoh Playset,116,4
+28,Maven Toys Puebla 2,28,Playfoam,120,5
+28,Maven Toys Puebla 2,27,PlayDoh Toolkit,129,6
+28,Maven Toys Puebla 2,12,Foam Disk Launcher,174,7
+28,Maven Toys Puebla 2,16,Jenga,198,8
+28,Maven Toys Puebla 2,7,Dart Gun,219,9
+28,Maven Toys Puebla 2,13,Gamer Headphones,220,10
+29,Maven Toys Xalapa 1,28,Playfoam,26,1
+29,Maven Toys Xalapa 1,26,PlayDoh Playset,27,2
+29,Maven Toys Xalapa 1,29,Plush Pony,73,3
+29,Maven Toys Xalapa 1,34,Toy Robot,98,4
+29,Maven Toys Xalapa 1,17,Kids Makeup Kit,111,5
+29,Maven Toys Xalapa 1,12,Foam Disk Launcher,157,6
+29,Maven Toys Xalapa 1,32,Supersoaker Water Gun,165,7
+29,Maven Toys Xalapa 1,23,Mr. Potatohead,176,8
+29,Maven Toys Xalapa 1,16,Jenga,180,9
+29,Maven Toys Xalapa 1,11,Etch A Sketch,218,10
+30,Maven Toys Guadalajara 3,32,Supersoaker Water Gun,25,1
+30,Maven Toys Guadalajara 3,28,Playfoam,46,2
+30,Maven Toys Guadalajara 3,21,Mini Ping Pong Set,64,3
+30,Maven Toys Guadalajara 3,33,Teddy Bear,97,4
+30,Maven Toys Guadalajara 3,16,Jenga,145,5
+30,Maven Toys Guadalajara 3,26,PlayDoh Playset,220,6
+30,Maven Toys Guadalajara 3,23,Mr. Potatohead,222,7
+30,Maven Toys Guadalajara 3,29,Plush Pony,237,8
+30,Maven Toys Guadalajara 3,12,Foam Disk Launcher,300,9
+30,Maven Toys Guadalajara 3,34,Toy Robot,301,10
+31,Maven Toys Ciudad de Mexico 2,28,Playfoam,49,1
+31,Maven Toys Ciudad de Mexico 2,10,Dinosaur Figures,90,2
+31,Maven Toys Ciudad de Mexico 2,26,PlayDoh Playset,97,3
+31,Maven Toys Ciudad de Mexico 2,33,Teddy Bear,111,4
+31,Maven Toys Ciudad de Mexico 2,29,Plush Pony,140,5
+31,Maven Toys Ciudad de Mexico 2,34,Toy Robot,157,6
+31,Maven Toys Ciudad de Mexico 2,32,Supersoaker Water Gun,203,7
+31,Maven Toys Ciudad de Mexico 2,16,Jenga,276,8
+31,Maven Toys Ciudad de Mexico 2,23,Mr. Potatohead,291,9
+31,Maven Toys Ciudad de Mexico 2,27,PlayDoh Toolkit,379,10
+32,Maven Toys Hermosillo 1,26,PlayDoh Playset,5,1
+32,Maven Toys Hermosillo 1,29,Plush Pony,17,2
+32,Maven Toys Hermosillo 1,34,Toy Robot,40,3
+32,Maven Toys Hermosillo 1,33,Teddy Bear,43,4
+32,Maven Toys Hermosillo 1,17,Kids Makeup Kit,58,5
+32,Maven Toys Hermosillo 1,32,Supersoaker Water Gun,59,6
+32,Maven Toys Hermosillo 1,16,Jenga,62,7
+32,Maven Toys Hermosillo 1,12,Foam Disk Launcher,74,8
+32,Maven Toys Hermosillo 1,28,Playfoam,85,9
+32,Maven Toys Hermosillo 1,23,Mr. Potatohead,158,10
+33,Maven Toys Monterrey 3,20,Mini Basketball Hoop,8,1
+33,Maven Toys Monterrey 3,33,Teddy Bear,18,2
+33,Maven Toys Monterrey 3,35,Uno Card Game,28,3
+33,Maven Toys Monterrey 3,32,Supersoaker Water Gun,34,4
+33,Maven Toys Monterrey 3,29,Plush Pony,44,5
+33,Maven Toys Monterrey 3,34,Toy Robot,65,6
+33,Maven Toys Monterrey 3,21,Mini Ping Pong Set,71,7
+33,Maven Toys Monterrey 3,26,PlayDoh Playset,91,8
+33,Maven Toys Monterrey 3,22,Monopoly,93,9
+33,Maven Toys Monterrey 3,28,Playfoam,103,10
+34,Maven Toys Villahermosa 1,33,Teddy Bear,8,1
+34,Maven Toys Villahermosa 1,34,Toy Robot,17,2
+34,Maven Toys Villahermosa 1,23,Mr. Potatohead,23,3
+34,Maven Toys Villahermosa 1,20,Mini Basketball Hoop,27,4
+34,Maven Toys Villahermosa 1,35,Uno Card Game,31,5
+34,Maven Toys Villahermosa 1,32,Supersoaker Water Gun,39,6
+34,Maven Toys Villahermosa 1,26,PlayDoh Playset,45,7
+34,Maven Toys Villahermosa 1,4,Chutes & Ladders,74,8
+34,Maven Toys Villahermosa 1,5,Classic Dominoes,80,9
+34,Maven Toys Villahermosa 1,29,Plush Pony,101,10
+35,Maven Toys Chilpancingo 1,33,Teddy Bear,12,1
+35,Maven Toys Chilpancingo 1,11,Etch A Sketch,16,2
+35,Maven Toys Chilpancingo 1,28,Playfoam,44,3
+35,Maven Toys Chilpancingo 1,26,PlayDoh Playset,58,4
+35,Maven Toys Chilpancingo 1,32,Supersoaker Water Gun,67,5
+35,Maven Toys Chilpancingo 1,29,Plush Pony,83,6
+35,Maven Toys Chilpancingo 1,34,Toy Robot,102,7
+35,Maven Toys Chilpancingo 1,16,Jenga,111,8
+35,Maven Toys Chilpancingo 1,17,Kids Makeup Kit,133,9
+35,Maven Toys Chilpancingo 1,23,Mr. Potatohead,138,10
+36,Maven Toys Morelia 1,22,Monopoly,6,1
+36,Maven Toys Morelia 1,28,Playfoam,22,2
+36,Maven Toys Morelia 1,34,Toy Robot,23,3
+36,Maven Toys Morelia 1,29,Plush Pony,37,4
+36,Maven Toys Morelia 1,21,Mini Ping Pong Set,41,5
+36,Maven Toys Morelia 1,35,Uno Card Game,46,6
+36,Maven Toys Morelia 1,32,Supersoaker Water Gun,69,7
+36,Maven Toys Morelia 1,26,PlayDoh Playset,72,8
+36,Maven Toys Morelia 1,27,PlayDoh Toolkit,81,9
+36,Maven Toys Morelia 1,33,Teddy Bear,89,10
+37,Maven Toys Ciudad de Mexico 3,20,Mini Basketball Hoop,40,1
+37,Maven Toys Ciudad de Mexico 3,32,Supersoaker Water Gun,59,2
+37,Maven Toys Ciudad de Mexico 3,4,Chutes & Ladders,60,3
+37,Maven Toys Ciudad de Mexico 3,5,Classic Dominoes,64,4
+37,Maven Toys Ciudad de Mexico 3,22,Monopoly,75,5
+37,Maven Toys Ciudad de Mexico 3,28,Playfoam,76,6
+37,Maven Toys Ciudad de Mexico 3,26,PlayDoh Playset,83,7
+37,Maven Toys Ciudad de Mexico 3,33,Teddy Bear,114,8
+37,Maven Toys Ciudad de Mexico 3,34,Toy Robot,121,9
+37,Maven Toys Ciudad de Mexico 3,35,Uno Card Game,121,9
+38,Maven Toys Chihuahua 2,35,Uno Card Game,56,1
+38,Maven Toys Chihuahua 2,32,Supersoaker Water Gun,57,2
+38,Maven Toys Chihuahua 2,33,Teddy Bear,64,3
+38,Maven Toys Chihuahua 2,29,Plush Pony,75,4
+38,Maven Toys Chihuahua 2,26,PlayDoh Playset,88,5
+38,Maven Toys Chihuahua 2,4,Chutes & Ladders,102,6
+38,Maven Toys Chihuahua 2,20,Mini Basketball Hoop,103,7
+38,Maven Toys Chihuahua 2,22,Monopoly,106,8
+38,Maven Toys Chihuahua 2,34,Toy Robot,114,9
+38,Maven Toys Chihuahua 2,23,Mr. Potatohead,125,10
+39,Maven Toys Xalapa 2,28,Playfoam,67,1
+39,Maven Toys Xalapa 2,29,Plush Pony,99,2
+39,Maven Toys Xalapa 2,32,Supersoaker Water Gun,109,3
+39,Maven Toys Xalapa 2,13,Gamer Headphones,149,4
+39,Maven Toys Xalapa 2,33,Teddy Bear,154,5
+39,Maven Toys Xalapa 2,26,PlayDoh Playset,184,6
+39,Maven Toys Xalapa 2,23,Mr. Potatohead,186,7
+39,Maven Toys Xalapa 2,15,Hot Wheels 5-Pack,219,8
+39,Maven Toys Xalapa 2,12,Foam Disk Launcher,276,9
+39,Maven Toys Xalapa 2,34,Toy Robot,290,10
+40,Maven Toys Toluca 2,5,Classic Dominoes,20,1
+40,Maven Toys Toluca 2,20,Mini Basketball Hoop,22,2
+40,Maven Toys Toluca 2,35,Uno Card Game,25,3
+40,Maven Toys Toluca 2,4,Chutes & Ladders,45,4
+40,Maven Toys Toluca 2,33,Teddy Bear,55,5
+40,Maven Toys Toluca 2,21,Mini Ping Pong Set,64,6
+40,Maven Toys Toluca 2,22,Monopoly,64,6
+40,Maven Toys Toluca 2,26,PlayDoh Playset,73,8
+40,Maven Toys Toluca 2,32,Supersoaker Water Gun,83,9
+40,Maven Toys Toluca 2,34,Toy Robot,85,10
+40,Maven Toys Toluca 2,29,Plush Pony,85,10
+41,Maven Toys Hermosillo 2,12,Foam Disk Launcher,59,1
+41,Maven Toys Hermosillo 2,20,Mini Basketball Hoop,79,2
+41,Maven Toys Hermosillo 2,32,Supersoaker Water Gun,95,3
+41,Maven Toys Hermosillo 2,5,Classic Dominoes,103,4
+41,Maven Toys Hermosillo 2,34,Toy Robot,105,5
+41,Maven Toys Hermosillo 2,22,Monopoly,112,6
+41,Maven Toys Hermosillo 2,26,PlayDoh Playset,114,7
+41,Maven Toys Hermosillo 2,29,Plush Pony,124,8
+41,Maven Toys Hermosillo 2,4,Chutes & Ladders,167,9
+41,Maven Toys Hermosillo 2,14,Glass Marbles,193,10
+42,Maven Toys Hermosillo 3,33,Teddy Bear,21,1
+42,Maven Toys Hermosillo 3,32,Supersoaker Water Gun,42,2
+42,Maven Toys Hermosillo 3,34,Toy Robot,53,3
+42,Maven Toys Hermosillo 3,35,Uno Card Game,72,4
+42,Maven Toys Hermosillo 3,5,Classic Dominoes,79,5
+42,Maven Toys Hermosillo 3,26,PlayDoh Playset,103,6
+42,Maven Toys Hermosillo 3,28,Playfoam,105,7
+42,Maven Toys Hermosillo 3,22,Monopoly,106,8
+42,Maven Toys Hermosillo 3,29,Plush Pony,109,9
+42,Maven Toys Hermosillo 3,20,Mini Basketball Hoop,117,10
+42,Maven Toys Hermosillo 3,10,Dinosaur Figures,117,10
+43,Maven Toys Durango 1,28,Playfoam,35,1
+43,Maven Toys Durango 1,29,Plush Pony,57,2
+43,Maven Toys Durango 1,34,Toy Robot,62,3
+43,Maven Toys Durango 1,33,Teddy Bear,62,3
+43,Maven Toys Durango 1,32,Supersoaker Water Gun,63,5
+43,Maven Toys Durango 1,16,Jenga,89,6
+43,Maven Toys Durango 1,26,PlayDoh Playset,113,7
+43,Maven Toys Durango 1,21,Mini Ping Pong Set,131,8
+43,Maven Toys Durango 1,10,Dinosaur Figures,155,9
+43,Maven Toys Durango 1,27,PlayDoh Toolkit,171,10
+44,Maven Toys Puebla 3,23,Mr. Potatohead,16,1
+44,Maven Toys Puebla 3,5,Classic Dominoes,24,2
+44,Maven Toys Puebla 3,34,Toy Robot,43,3
+44,Maven Toys Puebla 3,29,Plush Pony,50,4
+44,Maven Toys Puebla 3,16,Jenga,68,5
+44,Maven Toys Puebla 3,32,Supersoaker Water Gun,75,6
+44,Maven Toys Puebla 3,33,Teddy Bear,128,7
+44,Maven Toys Puebla 3,11,Etch A Sketch,186,8
+44,Maven Toys Puebla 3,27,PlayDoh Toolkit,202,9
+44,Maven Toys Puebla 3,15,Hot Wheels 5-Pack,261,10
+45,Maven Toys Ciudad de Mexico 4,33,Teddy Bear,16,1
+45,Maven Toys Ciudad de Mexico 4,28,Playfoam,24,2
+45,Maven Toys Ciudad de Mexico 4,12,Foam Disk Launcher,67,3
+45,Maven Toys Ciudad de Mexico 4,26,PlayDoh Playset,69,4
+45,Maven Toys Ciudad de Mexico 4,16,Jenga,104,5
+45,Maven Toys Ciudad de Mexico 4,29,Plush Pony,140,6
+45,Maven Toys Ciudad de Mexico 4,13,Gamer Headphones,156,7
+45,Maven Toys Ciudad de Mexico 4,11,Etch A Sketch,158,8
+45,Maven Toys Ciudad de Mexico 4,27,PlayDoh Toolkit,160,9
+45,Maven Toys Ciudad de Mexico 4,32,Supersoaker Water Gun,162,10
+46,Maven Toys Guadalajara 4,32,Supersoaker Water Gun,27,1
+46,Maven Toys Guadalajara 4,17,Kids Makeup Kit,39,2
+46,Maven Toys Guadalajara 4,28,Playfoam,72,3
+46,Maven Toys Guadalajara 4,29,Plush Pony,105,4
+46,Maven Toys Guadalajara 4,21,Mini Ping Pong Set,134,5
+46,Maven Toys Guadalajara 4,34,Toy Robot,151,6
+46,Maven Toys Guadalajara 4,27,PlayDoh Toolkit,166,7
+46,Maven Toys Guadalajara 4,33,Teddy Bear,190,8
+46,Maven Toys Guadalajara 4,16,Jenga,201,9
+46,Maven Toys Guadalajara 4,23,Mr. Potatohead,220,10
+47,Maven Toys Monterrey 4,20,Mini Basketball Hoop,5,1
+47,Maven Toys Monterrey 4,4,Chutes & Ladders,8,2
+47,Maven Toys Monterrey 4,21,Mini Ping Pong Set,61,3
+47,Maven Toys Monterrey 4,16,Jenga,111,4
+47,Maven Toys Monterrey 4,33,Teddy Bear,121,5
+47,Maven Toys Monterrey 4,26,PlayDoh Playset,121,5
+47,Maven Toys Monterrey 4,29,Plush Pony,153,7
+47,Maven Toys Monterrey 4,27,PlayDoh Toolkit,166,8
+47,Maven Toys Monterrey 4,32,Supersoaker Water Gun,200,9
+47,Maven Toys Monterrey 4,28,Playfoam,208,10
+47,Maven Toys Monterrey 4,23,Mr. Potatohead,208,10
+48,Maven Toys Saltillo 2,33,Teddy Bear,26,1
+48,Maven Toys Saltillo 2,29,Plush Pony,27,2
+48,Maven Toys Saltillo 2,32,Supersoaker Water Gun,49,3
+48,Maven Toys Saltillo 2,20,Mini Basketball Hoop,72,4
+48,Maven Toys Saltillo 2,35,Uno Card Game,91,5
+48,Maven Toys Saltillo 2,11,Etch A Sketch,102,6
+48,Maven Toys Saltillo 2,34,Toy Robot,107,7
+48,Maven Toys Saltillo 2,26,PlayDoh Playset,107,7
+48,Maven Toys Saltillo 2,21,Mini Ping Pong Set,108,9
+48,Maven Toys Saltillo 2,27,PlayDoh Toolkit,120,10
+49,Maven Toys Culiacan 1,5,Classic Dominoes,26,1
+49,Maven Toys Culiacan 1,20,Mini Basketball Hoop,41,2
+49,Maven Toys Culiacan 1,4,Chutes & Ladders,51,3
+49,Maven Toys Culiacan 1,26,PlayDoh Playset,56,4
+49,Maven Toys Culiacan 1,33,Teddy Bear,62,5
+49,Maven Toys Culiacan 1,34,Toy Robot,79,6
+49,Maven Toys Culiacan 1,32,Supersoaker Water Gun,83,7
+49,Maven Toys Culiacan 1,28,Playfoam,84,8
+49,Maven Toys Culiacan 1,22,Monopoly,91,9
+49,Maven Toys Culiacan 1,35,Uno Card Game,103,10
+50,Maven Toys Guanajuato 3,26,PlayDoh Playset,43,1
+50,Maven Toys Guanajuato 3,20,Mini Basketball Hoop,64,2
+50,Maven Toys Guanajuato 3,33,Teddy Bear,66,3
+50,Maven Toys Guanajuato 3,5,Classic Dominoes,68,4
+50,Maven Toys Guanajuato 3,32,Supersoaker Water Gun,75,5
+50,Maven Toys Guanajuato 3,35,Uno Card Game,79,6
+50,Maven Toys Guanajuato 3,28,Playfoam,91,7
+50,Maven Toys Guanajuato 3,29,Plush Pony,98,8
+50,Maven Toys Guanajuato 3,34,Toy Robot,102,9
+50,Maven Toys Guanajuato 3,22,Monopoly,129,10
