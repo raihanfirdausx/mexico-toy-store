@@ -1,0 +1,107 @@
+"store_id","store_name","product_id","product_name","sales_qty","rank"
+9,Maven Toys Ciudad de Mexico 1,1,Action Figure,1095,1
+31,Maven Toys Ciudad de Mexico 2,1,Action Figure,1034,2
+17,Maven Toys Toluca 1,1,Action Figure,875,3
+31,Maven Toys Ciudad de Mexico 2,2,Animal Figures,946,1
+46,Maven Toys Guadalajara 4,2,Animal Figures,828,2
+17,Maven Toys Toluca 1,2,Animal Figures,782,3
+17,Maven Toys Toluca 1,3,Barrel O' Slime,3957,1
+9,Maven Toys Ciudad de Mexico 1,3,Barrel O' Slime,3710,2
+31,Maven Toys Ciudad de Mexico 2,3,Barrel O' Slime,3160,3
+7,Maven Toys Monterrey 2,4,Chutes & Ladders,290,1
+22,Maven Toys Guanajuato 2,4,Chutes & Ladders,239,2
+4,Maven Toys Saltillo 1,4,Chutes & Ladders,229,3
+9,Maven Toys Ciudad de Mexico 1,5,Classic Dominoes,226,1
+48,Maven Toys Saltillo 2,5,Classic Dominoes,178,2
+4,Maven Toys Saltillo 1,5,Classic Dominoes,172,3
+42,Maven Toys Hermosillo 3,6,Colorbuds,2198,1
+31,Maven Toys Ciudad de Mexico 2,6,Colorbuds,2136,2
+6,Maven Toys Mexicali 1,6,Colorbuds,1903,3
+45,Maven Toys Ciudad de Mexico 4,7,Dart Gun,644,1
+30,Maven Toys Guadalajara 3,7,Dart Gun,607,2
+41,Maven Toys Hermosillo 2,7,Dart Gun,505,3
+31,Maven Toys Ciudad de Mexico 2,8,Deck Of Cards,2611,1
+19,Maven Toys Puebla 1,8,Deck Of Cards,1666,2
+6,Maven Toys Mexicali 1,8,Deck Of Cards,1647,3
+9,Maven Toys Ciudad de Mexico 1,9,Dino Egg,1212,1
+30,Maven Toys Guadalajara 3,9,Dino Egg,1108,2
+17,Maven Toys Toluca 1,9,Dino Egg,1105,3
+30,Maven Toys Guadalajara 3,10,Dinosaur Figures,858,1
+7,Maven Toys Monterrey 2,10,Dinosaur Figures,776,2
+44,Maven Toys Puebla 3,10,Dinosaur Figures,763,3
+31,Maven Toys Ciudad de Mexico 2,11,Etch A Sketch,752,1
+17,Maven Toys Toluca 1,11,Etch A Sketch,542,2
+21,Maven Toys Santiago 1,11,Etch A Sketch,485,3
+31,Maven Toys Ciudad de Mexico 2,12,Foam Disk Launcher,417,1
+30,Maven Toys Guadalajara 3,12,Foam Disk Launcher,300,2
+17,Maven Toys Toluca 1,12,Foam Disk Launcher,290,3
+6,Maven Toys Mexicali 1,13,Gamer Headphones,1140,1
+31,Maven Toys Ciudad de Mexico 2,13,Gamer Headphones,982,2
+41,Maven Toys Hermosillo 2,13,Gamer Headphones,589,3
+36,Maven Toys Morelia 1,14,Glass Marbles,4056,1
+33,Maven Toys Monterrey 3,14,Glass Marbles,2988,2
+31,Maven Toys Ciudad de Mexico 2,14,Glass Marbles,1482,3
+7,Maven Toys Monterrey 2,15,Hot Wheels 5-Pack,737,1
+45,Maven Toys Ciudad de Mexico 4,15,Hot Wheels 5-Pack,573,2
+30,Maven Toys Guadalajara 3,15,Hot Wheels 5-Pack,510,3
+17,Maven Toys Toluca 1,16,Jenga,344,1
+9,Maven Toys Ciudad de Mexico 1,16,Jenga,334,2
+39,Maven Toys Xalapa 2,16,Jenga,331,3
+37,Maven Toys Ciudad de Mexico 3,17,Kids Makeup Kit,687,1
+31,Maven Toys Ciudad de Mexico 2,17,Kids Makeup Kit,599,2
+41,Maven Toys Hermosillo 2,17,Kids Makeup Kit,545,3
+50,Maven Toys Guanajuato 3,18,Lego Bricks,1502,1
+31,Maven Toys Ciudad de Mexico 2,18,Lego Bricks,1408,2
+14,Maven Toys Guanajuato 1,18,Lego Bricks,1227,3
+17,Maven Toys Toluca 1,19,Magic Sand,2620,1
+42,Maven Toys Hermosillo 3,19,Magic Sand,2127,2
+49,Maven Toys Culiacan 1,19,Magic Sand,1957,3
+42,Maven Toys Hermosillo 3,20,Mini Basketball Hoop,117,1
+38,Maven Toys Chihuahua 2,20,Mini Basketball Hoop,103,2
+4,Maven Toys Saltillo 1,20,Mini Basketball Hoop,99,3
+10,Maven Toys Campeche 1,21,Mini Ping Pong Set,2805,1
+38,Maven Toys Chihuahua 2,21,Mini Ping Pong Set,2293,2
+37,Maven Toys Ciudad de Mexico 3,21,Mini Ping Pong Set,2007,3
+7,Maven Toys Monterrey 2,22,Monopoly,166,1
+48,Maven Toys Saltillo 2,22,Monopoly,160,2
+18,Maven Toys Merida 1,22,Monopoly,151,3
+9,Maven Toys Ciudad de Mexico 1,23,Mr. Potatohead,436,1
+11,Maven Toys Cuernavaca 1,23,Mr. Potatohead,371,2
+50,Maven Toys Guanajuato 3,23,Mr. Potatohead,328,3
+31,Maven Toys Ciudad de Mexico 2,24,Nerf Gun,883,1
+30,Maven Toys Guadalajara 3,24,Nerf Gun,767,2
+37,Maven Toys Ciudad de Mexico 3,24,Nerf Gun,661,3
+14,Maven Toys Guanajuato 1,25,PlayDoh Can,2605,1
+31,Maven Toys Ciudad de Mexico 2,25,PlayDoh Can,2595,2
+7,Maven Toys Monterrey 2,25,PlayDoh Can,2580,3
+30,Maven Toys Guadalajara 3,26,PlayDoh Playset,220,1
+39,Maven Toys Xalapa 2,26,PlayDoh Playset,184,2
+19,Maven Toys Puebla 1,26,PlayDoh Playset,156,3
+30,Maven Toys Guadalajara 3,27,PlayDoh Toolkit,483,1
+31,Maven Toys Ciudad de Mexico 2,27,PlayDoh Toolkit,379,2
+9,Maven Toys Ciudad de Mexico 1,27,PlayDoh Toolkit,365,3
+41,Maven Toys Hermosillo 2,28,Playfoam,237,1
+27,Maven Toys Oaxaca 1,28,Playfoam,223,2
+48,Maven Toys Saltillo 2,28,Playfoam,211,3
+30,Maven Toys Guadalajara 3,29,Plush Pony,237,1
+47,Maven Toys Monterrey 4,29,Plush Pony,153,2
+31,Maven Toys Ciudad de Mexico 2,29,Plush Pony,140,3
+45,Maven Toys Ciudad de Mexico 4,29,Plush Pony,140,3
+30,Maven Toys Guadalajara 3,30,Rubik's Cube,1533,1
+9,Maven Toys Ciudad de Mexico 1,30,Rubik's Cube,1131,2
+7,Maven Toys Monterrey 2,30,Rubik's Cube,1033,3
+47,Maven Toys Monterrey 4,31,Splash Balls,1832,1
+17,Maven Toys Toluca 1,31,Splash Balls,1597,2
+31,Maven Toys Ciudad de Mexico 2,31,Splash Balls,1356,3
+31,Maven Toys Ciudad de Mexico 2,32,Supersoaker Water Gun,203,1
+47,Maven Toys Monterrey 4,32,Supersoaker Water Gun,200,2
+29,Maven Toys Xalapa 1,32,Supersoaker Water Gun,165,3
+23,Maven Toys Chihuahua 1,33,Teddy Bear,231,1
+41,Maven Toys Hermosillo 2,33,Teddy Bear,197,2
+17,Maven Toys Toluca 1,33,Teddy Bear,194,3
+30,Maven Toys Guadalajara 3,34,Toy Robot,301,1
+39,Maven Toys Xalapa 2,34,Toy Robot,290,2
+45,Maven Toys Ciudad de Mexico 4,34,Toy Robot,275,3
+41,Maven Toys Hermosillo 2,35,Uno Card Game,202,1
+37,Maven Toys Ciudad de Mexico 3,35,Uno Card Game,121,2
+6,Maven Toys Mexicali 1,35,Uno Card Game,109,3
