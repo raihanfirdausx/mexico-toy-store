@@ -22,7 +22,9 @@ The database's entity-relationship (ER) from which the data is taken can be seen
 We must clean and transform the data required from database. Below is the SQL query for the data:
 
 ![](/images/sql1.jpeg)
+
 ![](/images/sql2.jpeg)
+
 ![](/images/sql3.jpeg)
 
 ## Data Involved
@@ -34,10 +36,10 @@ The data involved for the input to Power BI can be seen as below:
 The dasboard result:
 
 *Sales Performance 1
-![](/images/dash1.jpeg)
+![](/images/dashh1.jpeg)
 
 *Sales Performance 2
-![](/images/dash2.jpeg)
+![](/images/dashh2.jpeg)
 
 Full Interactive Dashboard : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=15bd1209-abfb-4e83-b2fc-16c057b861a1&autoAuth=true&ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
