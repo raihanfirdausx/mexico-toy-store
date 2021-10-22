@@ -23,6 +23,7 @@ We must clean and transform the data required from database. Below is the SQL qu
 
 ![](/images/sql1.jpeg)
 ![](/images/sql2.jpeg)
+![](/images/sql3.jpeg)
 
 ## Data Involved
 The data involved for the input to Power BI can be seen as below:
